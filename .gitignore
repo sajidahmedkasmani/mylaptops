@@ -8,12 +8,6 @@ wp-content/uploads/
 wp-content/cache/
 wp-content/backups/
 
-# Vendor folder (agar composer use ho raha ho)
-vendor/
-
-# Node (agar theme me build tools use ho rahe ho)
-node_modules/
-
 # Log files
 *.log
 
